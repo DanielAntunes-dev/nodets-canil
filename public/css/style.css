@@ -85,6 +85,7 @@ h2 {
 
 .no-list {
     margin-bottom: 50px;
+    text-align: center;
 }
 .list {
     display: grid;
